@@ -9,6 +9,7 @@ public class HashMAP1 {
 	public static void main(String[] args) {
 		
 		String a = "Amit";
+		String b = "Amita";
 		// TODO Auto-generated method stub
 		
 		Map map=new HashMap();  
