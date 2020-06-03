@@ -30,6 +30,10 @@ public class HashMAP1 {
 	        	System.out.println("value found");
 	        	System.out.println("Key is " +entry.getKey());
 	        	
+	        	System.out.println("Key is vikash " +entry.getKey());
+	        	
+	        	
+	        	
 	        }
 	        	
 	        	
