@@ -9,6 +9,7 @@ public class HashMAP1 {
 	public static void main(String[] args) {
 		
 		String a = "Amit";
+		String b = "Amita";
 		// TODO Auto-generated method stub
 		
 		Map map=new HashMap();  
@@ -29,6 +30,10 @@ public class HashMAP1 {
 	        	
 	        	System.out.println("value found");
 	        	System.out.println("Key is " +entry.getKey());
+	        	
+	        	System.out.println("Key is vikash " +entry.getKey());
+	        	
+	        	
 	        	
 	        }
 	        	
